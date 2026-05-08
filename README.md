@@ -45,7 +45,6 @@ Dataset File:
 ```bash
 StudentsPerformance.csv
 
-<br>
 ## Academic Information
 
 This project was completed as part of the Big Data course project assigned by:
@@ -53,9 +52,6 @@ This project was completed as part of the Big Data course project assigned by:
 Miss Nimra Razzaq
 
 Big Data Subject Teacher
-
-<br>
-
 
 ## Author
 Syed Taseer Abbas
